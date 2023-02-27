@@ -27,7 +27,7 @@ O banco de dados também está hospedado no Railway e não é necessário config
 
 Equipe de desenvolvedores:
 
-Abner Mendes
-Gabriel Cordeiro
-Gustavo Alves
-Gustavo Lima
+Abner Mendes,
+Gabriel Cordeiro,
+Gustavo Alves,
+Gustavo Lima,
