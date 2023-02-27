@@ -6,11 +6,13 @@ Tecnologias utilizadas:
 
 React Native para o desenvolvimento do aplicativo móvel
 API hospedada no Railway para fornecer as informações necessárias ao aplicativo
+
 Como clonar:
 
 Acesse o repositório do projeto no GitHub
 Clique no botão "Fork" para criar uma cópia do projeto em sua própria conta do GitHub
 Clone o projeto em sua máquina local usando o seguinte comando: git clone https://github.com/ClaushSouza/ReceitasReact-Native
+
 Como rodar o app e a API:
 
 Instale o Node.js em sua máquina
