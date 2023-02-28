@@ -7,6 +7,8 @@
 React Native para o desenvolvimento do aplicativo móvel
 API hospedada no Railway para fornecer as informações necessárias ao aplicativo
 
+
+
 # Como clonar:
 
 #Acesse o repositório do projeto no GitHub
