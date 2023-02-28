@@ -11,8 +11,8 @@ Acesse o repositório do projeto no GitHub
 Clique no botão "Fork" para criar uma cópia do projeto em sua própria conta do GitHub
 Clone o projeto em sua máquina local usando o seguinte comando: git clone https://github.com/ClaushSouza/ReceitasReact-Native
 
-# Como rodar o app e a API:
 
+# Como rodar o app e a API:
 #Instale o Node.js em sua máquina
 Instale o React Native CLI usando o comando ```npm install -g react-native-cli```
 Na pasta do projeto, execute o comando ```yarn install para instalar``` as dependências do projeto
