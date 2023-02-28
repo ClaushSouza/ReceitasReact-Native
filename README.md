@@ -15,9 +15,9 @@ Clone o projeto em sua máquina local usando o seguinte comando: git clone https
 
 #Instale o Node.js em sua máquina
 Instale o React Native CLI usando o comando ```npm install -g react-native-cli```
-Na pasta do projeto, execute o comando yarn install para instalar as dependências do projeto
-Execute o comando yarn start para iniciar o servidor do Metro Bundler
-Em outro terminal, execute o comando npx react-native run-android ou npx react-native run-ios para iniciar o aplicativo no emulador ou dispositivo físico conectado
+Na pasta do projeto, execute o comando ```yarn install para instalar``` as dependências do projeto
+Execute o comando ```yarn start``` para iniciar o servidor do Metro Bundler
+Em outro terminal, execute o comando ```npx react-native run-android ou npx react-native run-ios``` para iniciar o aplicativo no emulador ou dispositivo físico conectado
 A API está hospedada no Railway. Para acessá-la, basta enviar uma solicitação HTTP para o endpoint correto.
 
 # Como rodar o banco de dados:
