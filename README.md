@@ -1,6 +1,6 @@
-Projeto: Receitas Brasileiras
+# Projeto: Receitas Brasileiras
 
-Objetivo: Desenvolver um aplicativo móvel que exiba receitas brasileiras divididas em quatro categorias: entrada, prato principal, sobremesa e vegano. O aplicativo deve permitir que o usuário veja vídeos de preparo da receita, tempo de preparo, rendimento, autor da receita, ingredientes e modo de preparo.
+## Objetivo: Desenvolver um aplicativo móvel que exiba receitas brasileiras divididas em quatro categorias: entrada, prato principal, sobremesa e vegano. O aplicativo deve permitir que o usuário veja vídeos de preparo da receita, tempo de preparo, rendimento, autor da receita, ingredientes e modo de preparo.
 
 Tecnologias utilizadas:
 
